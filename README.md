@@ -1,13 +1,13 @@
 # test-assignment
 
-This util purpose is to:
+This util's purpose is to:
  1. download zip file from given url
  2. unpack zip
  3. upload files to S3
 
 Assuming you've got configured AWS credentials, there should be
 ```
-~/.aws/congig
+~/.aws/config
 ```
 and
 ```
